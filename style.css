@@ -1,0 +1,8 @@
+body {
+	font-size: 20px;
+}
+
+#div1 {
+	height: 2rem;
+	overflow-y: "hide";
+}
